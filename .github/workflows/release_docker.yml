@@ -24,7 +24,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  ORG_NAME: openlistteam
+  ORG_NAME: ldxw
   IMAGE_NAME: openlist-git
   IMAGE_NAME_DOCKERHUB: openlist
   REGISTRY: ghcr.io
